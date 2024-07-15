@@ -469,7 +469,7 @@ CREATE TABLE `tb_siswa` (
 
 LOCK TABLES `tb_siswa` WRITE;
 /*!40000 ALTER TABLE `tb_siswa` DISABLE KEYS */;
-INSERT INTO `tb_siswa` VALUES (1,'19865916817356','Erly Wahyuningtyas',1,'Perempuan','0897834618371','033e27061155ac5bc9cebbeb33a3ea7fdb2e49fe89211c8f31110936061feeef');
+INSERT INTO `tb_siswa` VALUES (1,'19865916817356','Prayoga Nugroho Pangestu',1,'Perempuan','0897834618371','033e27061155ac5bc9cebbeb33a3ea7fdb2e49fe89211c8f31110936061feeef');
 /*!40000 ALTER TABLE `tb_siswa` ENABLE KEYS */;
 UNLOCK TABLES;
 

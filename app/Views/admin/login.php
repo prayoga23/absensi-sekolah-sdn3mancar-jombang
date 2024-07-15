@@ -111,7 +111,7 @@
                         © <script>
                             document.write(new Date().getFullYear())
                         </script>
-                        Dibuat Oleh Erly Wahyuningtyas
+                        Dibuat Oleh Prayoga Nugroho Pangestu
                     </div>
                 </div>
             </div>

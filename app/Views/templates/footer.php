@@ -4,7 +4,7 @@
          <ul>
             <li>
                <b>
-                  Erly Wahyuningtyas</b>
+                  Prayoga Nugroho Pangestu</b>
             </li>
          </ul>
       </nav>
